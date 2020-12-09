@@ -1,0 +1,14 @@
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\12_QuizMethod.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\12_QuizMethod.pdb
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\obj\Debug\12_QuizMethod.csproj.CoreCompileInputs.cache
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\obj\Debug\12_QuizMethod.csproj.CopyComplete
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\obj\Debug\12_QuizMethod.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\obj\Debug\12_QuizMethod.pdb
+P:\ElevenFiftyProjects\CSharpsFundamentals\12_QuizMethod\obj\Debug\12_QuizMethod.csprojAssemblyReference.cache

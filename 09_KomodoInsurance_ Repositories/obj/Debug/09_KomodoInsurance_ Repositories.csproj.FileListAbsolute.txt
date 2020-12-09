@@ -1,0 +1,6 @@
+P:\ElevenFiftyProjects\CSharpsFundamentals\09_KomodoInsurance_ Repositories\bin\Debug\09_KomodoInsurance_ Repositories.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\09_KomodoInsurance_ Repositories\bin\Debug\09_KomodoInsurance_ Repositories.pdb
+P:\ElevenFiftyProjects\CSharpsFundamentals\09_KomodoInsurance_ Repositories\obj\Debug\09_KomodoInsurance_ Repositories.csprojAssemblyReference.cache
+P:\ElevenFiftyProjects\CSharpsFundamentals\09_KomodoInsurance_ Repositories\obj\Debug\09_KomodoInsurance_ Repositories.csproj.CoreCompileInputs.cache
+P:\ElevenFiftyProjects\CSharpsFundamentals\09_KomodoInsurance_ Repositories\obj\Debug\09_KomodoInsurance_ Repositories.dll
+P:\ElevenFiftyProjects\CSharpsFundamentals\09_KomodoInsurance_ Repositories\obj\Debug\09_KomodoInsurance_ Repositories.pdb
